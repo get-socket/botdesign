@@ -1,17 +1,28 @@
 /* Header */
 .bpw-header {
-    background-color: black;
-    text-color: white;
+    background-color: black !important;
+    color: white !important;
 }
 
 /* Chat container */
 .bpw-conversation-container {
-    background-color: rgba(0, 0, 0, 0.5);
-    text-color: white;
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    color: white !important;
 }
 
 /* User input area */
 .bpw-composer {
-    background-color: rgba(0, 0, 0, 0.5);
-    text-color: white;
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    color: white !important;
+}
+
+/* Messages */
+.bpw-message {
+    color: white !important;
+}
+
+/* Full chat window */
+.bpw-widget-web {
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    color: white !important;
 }
