@@ -1,0 +1,17 @@
+/* Header */
+.bpw-header {
+    background-color: black;
+    color: white;
+}
+
+/* Chat container */
+.bpw-conversation-container {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+/* User input area */
+.bpw-composer {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
